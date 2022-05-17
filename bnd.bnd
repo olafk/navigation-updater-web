@@ -1,0 +1,8 @@
+Bundle-Name: navigation-updater-web
+Bundle-SymbolicName: navigation.updater.web
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.sales.navigation.updater.web.constants
+Provide-Capability:\
+liferay.language.resources;\
+resource.bundle.base.name="content.Language";\
+service.ranking:Long="5"
